@@ -516,7 +516,7 @@ PRODUCT_USE_VNDK_OVERRIDE := true
 
 # USB
 PRODUCT_VENDOR_PROPERTIES += \
-    vendor.usb.product_string=Xiaomi Pocophone F1
+    vendor.usb.product_string="Xiaomi Pocophone F1"
 
 # Vendor blobs
 $(call inherit-product, vendor/xiaomi/beryllium/beryllium-vendor.mk)
