@@ -11,8 +11,7 @@ LOCAL_OVERRIDES_PACKAGES := \
     Maps \
     YouTube \
     PersonalSafety \
-    GoogleCameraGo \
-    Abstruct
+    GoogleCameraGo
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := PRESIGNED
 LOCAL_SRC_FILES := /dev/null
